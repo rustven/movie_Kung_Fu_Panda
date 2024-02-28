@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    margin: 30px 40px;
+    width: 400px;
+    height: 800px;
+    background-color: darkcyan;
+    padding: 7vw;
+}
+.header img{
+
+   box-shadow: blue,  2 3 3 10; 
+}
